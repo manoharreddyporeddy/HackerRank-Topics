@@ -11,11 +11,11 @@ Topics (Tutorials) from HackerRank
 <ol>
 <li><a href="https://www.hackerrank.com/topics/if-else-statements">if-else-statements</a></li>
 <li><a href="https://www.hackerrank.com/topics/average">average</a></li>
+<li><a href="https://www.hackerrank.com/topics/div-mod">div-mod</a></li>
 <li><a href="https://www.hackerrank.com/topics/closed-form">closed-form</a></li>
 <li><a href="https://www.hackerrank.com/topics/fibonacci-numbers">fibonacci-numbers</a></li>
 <li><a href="https://www.hackerrank.com/topics/binets-formula">binets-formula</a></li>
 <li><a href="https://www.hackerrank.com/topics/precomputation">precomputation</a></li>
-<li><a href="https://www.hackerrank.com/topics/div-mod">div-mod</a></li>
 <li><a href="https://www.hackerrank.com/topics/integer-to-array">integer-to-array</a></li>
 <li><a href="https://www.hackerrank.com/topics/two-pointer-technique">two-pointer-technique</a></li>
 <li><a href="https://www.hackerrank.com/topics/greedy-technique">greedy-technique</a></li>
