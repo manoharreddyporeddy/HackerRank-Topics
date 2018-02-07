@@ -4,18 +4,18 @@ Topics (Tutorials) from HackerRank
 
 <h4>NOTE</h4>
 1. Whole list of topic URLs (As on Feb 29 2016)
-2. Don’t be surprised if a link becomes unavailable for a period of time or if you see some minor typos
+2. Donâ€™t be surprised if a link becomes unavailable for a period of time or if you see some minor typos
 
 <h4>Here you go:</h4>
 -------------------------------
 <ol>
 <li><a href="https://www.hackerrank.com/topics/if-else-statements">if-else-statements</a></li>
+<li><a href="https://www.hackerrank.com/topics/average">average</a></li>
 <li><a href="https://www.hackerrank.com/topics/closed-form">closed-form</a></li>
 <li><a href="https://www.hackerrank.com/topics/fibonacci-numbers">fibonacci-numbers</a></li>
 <li><a href="https://www.hackerrank.com/topics/binets-formula">binets-formula</a></li>
 <li><a href="https://www.hackerrank.com/topics/precomputation">precomputation</a></li>
 <li><a href="https://www.hackerrank.com/topics/div-mod">div-mod</a></li>
-<li><a href="https://www.hackerrank.com/topics/average">average</a></li>
 <li><a href="https://www.hackerrank.com/topics/integer-to-array">integer-to-array</a></li>
 <li><a href="https://www.hackerrank.com/topics/two-pointer-technique">two-pointer-technique</a></li>
 <li><a href="https://www.hackerrank.com/topics/greedy-technique">greedy-technique</a></li>
