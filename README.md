@@ -12,6 +12,9 @@ Topics (Tutorials) from HackerRank
 <li><a href="https://www.hackerrank.com/topics/if-else-statements">if-else-statements</a></li>
 <li><a href="https://www.hackerrank.com/topics/average">average</a></li>
 <li><a href="https://www.hackerrank.com/topics/div-mod">div-mod</a></li>
+<li><a href="https://www.hackerrank.com/topics/ceil-floor">ceil-floor</a></li>
+<li><a href="https://www.hackerrank.com/topics/square-root">square-root</a></li>
+
 <li><a href="https://www.hackerrank.com/topics/closed-form">closed-form</a></li>
 <li><a href="https://www.hackerrank.com/topics/fibonacci-numbers">fibonacci-numbers</a></li>
 <li><a href="https://www.hackerrank.com/topics/binets-formula">binets-formula</a></li>
@@ -30,8 +33,6 @@ Topics (Tutorials) from HackerRank
 <li><a href="https://www.hackerrank.com/topics/anagram">anagram</a></li>
 <li><a href="https://www.hackerrank.com/topics/gcd">gcd</a></li>
 <li><a href="https://www.hackerrank.com/topics/multi-set">multi-set</a></li>
-<li><a href="https://www.hackerrank.com/topics/square-root">square-root</a></li>
-<li><a href="https://www.hackerrank.com/topics/ceil-floor">ceil-floor</a></li>
 <li><a href="https://www.hackerrank.com/topics/divisors">divisors</a></li>
 <li><a href="https://www.hackerrank.com/topics/binary">binary</a></li>
 <li><a href="https://www.hackerrank.com/topics/suffix-array">suffix-array</a></li>
