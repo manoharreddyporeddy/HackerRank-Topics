@@ -9,11 +9,11 @@ Topics (Tutorials) from HackerRank
 <h4>Here you go:</h4>
 -------------------------------
 <ol>
-<li><a href="https://www.hackerrank.com/topics/if-else-statements">if-else-statements</a></li>
-<li><a href="https://www.hackerrank.com/topics/average">average</a></li>
-<li><a href="https://www.hackerrank.com/topics/div-mod">div-mod</a></li>
-<li><a href="https://www.hackerrank.com/topics/ceil-floor">ceil-floor</a></li>
-<li><a href="https://www.hackerrank.com/topics/divisors">divisors</a></li>
+<li><a href="https://www.hackerrank.com/topics/if-else-statements">if-else-statements</a></li> - Basics
+<li><a href="https://www.hackerrank.com/topics/average">average</a></li> - Math
+<li><a href="https://www.hackerrank.com/topics/div-mod">div-mod</a></li> - Math
+<li><a href="https://www.hackerrank.com/topics/ceil-floor">ceil-floor</a></li> - Math
+<li><a href="https://www.hackerrank.com/topics/divisors">divisors</a></li> - Math
 <li><a href="https://www.hackerrank.com/topics/square-root">square-root</a></li>
 
 <li><a href="https://www.hackerrank.com/topics/closed-form">closed-form</a></li>
