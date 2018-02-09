@@ -85,12 +85,6 @@ Set:
 Dictionary:
 <li><a href="https://www.hackerrank.com/topics/dictionary">dictionary</a></li>
 
-<li><a href="https://www.hackerrank.com/topics/two-pointer-technique">two-pointer-technique</a></li>
-<li><a href="https://www.hackerrank.com/topics/greedy-technique">greedy-technique</a></li>
-<li><a href="https://www.hackerrank.com/topics/maxima-minima">maxima-minima</a></li>
-
-<li><a href="https://www.hackerrank.com/topics/counting">counting</a></li>
-
 Trie:
 <li><a href="https://www.hackerrank.com/topics/trie">trie</a></li>
 
@@ -98,15 +92,7 @@ Bit manipulation:
 <li><a href="https://www.hackerrank.com/topics/bitwise-or">bitwise-or</a></li>
 <li><a href="https://www.hackerrank.com/topics/bitwise-xor">bitwise-xor</a></li>
 
-<li><a href="https://www.hackerrank.com/topics/sparse-tables">sparse-tables</a></li>
-
-<li><a href="https://www.hackerrank.com/topics/game-theory-and-grundy-numbers">game-theory-and-grundy-numbers</a></li>
-
-<li><a href="https://www.hackerrank.com/topics/pointers-and-linked-lists">pointers-and-linked-lists</a></li>
-<li><a href="https://www.hackerrank.com/topics/lazy-propagation">lazy-propagation</a></li>
-<li><a href="https://www.hackerrank.com/topics/persistent-data-structures">persistent-data-structures</a></li>
-
-<li><a href="https://www.hackerrank.com/topics/pair">pair</a></li>
+Strings
 <li><a href="https://www.hackerrank.com/topics/string-basics">string-basics</a></li>
 <li><a href="https://www.hackerrank.com/topics/strings-essay">strings-essay</a></li>
 <li><a href="https://www.hackerrank.com/topics/strings-long">strings-long</a></li>
@@ -115,9 +101,33 @@ Bit manipulation:
 <li><a href="https://www.hackerrank.com/topics/anagram">anagram</a></li>
 <li><a href="https://www.hackerrank.com/topics/next-permutation">next-permutation</a></li>
 
+Dynamic programming
 <li><a href="https://www.hackerrank.com/topics/dynamic-programming-basics">dynamic-programming-basics</a></li>
 <li><a href="https://www.hackerrank.com/topics/dynamic-programming">dynamic-programming</a></li>
 <li><a href="https://www.hackerrank.com/topics/fast-exponentiation">fast-exponentiation</a></li>
+
+Greedy
+<li><a href="https://www.hackerrank.com/topics/greedy-technique">greedy-technique</a></li>
+
+Game theory
+<li><a href="https://www.hackerrank.com/topics/game-theory-and-grundy-numbers">game-theory-and-grundy-numbers</a></li>
+
+
+<li><a href="https://www.hackerrank.com/topics/two-pointer-technique">two-pointer-technique</a></li>
+<li><a href="https://www.hackerrank.com/topics/maxima-minima">maxima-minima</a></li>
+
+<li><a href="https://www.hackerrank.com/topics/counting">counting</a></li>
+
+<li><a href="https://www.hackerrank.com/topics/sparse-tables">sparse-tables</a></li>
+
+
+<li><a href="https://www.hackerrank.com/topics/pointers-and-linked-lists">pointers-and-linked-lists</a></li>
+<li><a href="https://www.hackerrank.com/topics/lazy-propagation">lazy-propagation</a></li>
+<li><a href="https://www.hackerrank.com/topics/persistent-data-structures">persistent-data-structures</a></li>
+
+<li><a href="https://www.hackerrank.com/topics/pair">pair</a></li>
+
+
 
 <li><a href="https://www.hackerrank.com/topics/binary">binary</a></li>
 <li><a href="https://www.hackerrank.com/topics/z-function">z-function</a></li>
