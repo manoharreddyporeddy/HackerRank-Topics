@@ -112,7 +112,7 @@ Greedy
 Game theory
 <li><a href="https://www.hackerrank.com/topics/game-theory-and-grundy-numbers">game-theory-and-grundy-numbers</a></li>
 
-
+Other
 <li><a href="https://www.hackerrank.com/topics/two-pointer-technique">two-pointer-technique</a></li>
 <li><a href="https://www.hackerrank.com/topics/maxima-minima">maxima-minima</a></li>
 
