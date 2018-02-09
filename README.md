@@ -16,7 +16,9 @@ Math
 <li><a href="https://www.hackerrank.com/topics/div-mod">div-mod</a></li>
 <li><a href="https://www.hackerrank.com/topics/ceil-floor">ceil-floor</a></li>
 <li><a href="https://www.hackerrank.com/topics/divisors">divisors</a></li>
-----TBD---
+<li><a href="https://www.hackerrank.com/topics/sieve-of-eratosthenes">sieve-of-eratosthenes</a></li>
+<li><a href="https://www.hackerrank.com/topics/sieve-of-eratosthenes-linear-time">sieve-of-eratosthenes-linear-time</a></li>
+
 <li><a href="https://www.hackerrank.com/topics/square-root">square-root</a></li>
 
 <li><a href="https://www.hackerrank.com/topics/closed-form">closed-form</a></li>
@@ -36,6 +38,7 @@ Math
 
 <li><a href="https://www.hackerrank.com/topics/precomputation">precomputation</a></li>
 
+Sorting
 <li><a href="https://www.hackerrank.com/topics/sorting">sorting</a></li>
 <li><a href="https://www.hackerrank.com/topics/sorting-essay">sorting-essay</a></li>
 <li><a href="https://www.hackerrank.com/topics/topological-sorting">topological-sorting</a></li>
@@ -45,6 +48,7 @@ Math
 <li><a href="https://www.hackerrank.com/topics/counting-sort">counting-sort</a></li>
 <li><a href="https://www.hackerrank.com/topics/merge-sort">merge-sort</a></li>
 
+Searching
 <li><a href="https://www.hackerrank.com/topics/search">search</a></li>
 <li><a href="https://www.hackerrank.com/topics/binary-search">binary-search</a></li>
 <li><a href="https://www.hackerrank.com/topics/depth-first-search">depth-first-search</a></li>
@@ -57,6 +61,7 @@ Math
 <li><a href="https://www.hackerrank.com/topics/segment-tree">segment-tree</a></li>
 <li><a href="https://www.hackerrank.com/topics/binary-indexed-tree">binary-indexed-tree</a></li>
 
+Graphs:
 <li><a href="https://www.hackerrank.com/topics/shortest-paths-in-graphs">shortest-paths-in-graphs</a></li>
 <li><a href="https://www.hackerrank.com/topics/shortest-path-in-graphs">shortest-path-in-graphs</a></li>
 <li><a href="https://www.hackerrank.com/topics/dijkstras-algorithm">dijkstras-algorithm</a></li>
@@ -65,15 +70,19 @@ Math
 <li><a href="https://www.hackerrank.com/topics/bipartite-matching">bipartite-matching</a></li>
 <li><a href="https://www.hackerrank.com/topics/convex-hull">convex-hull</a></li>
 
+Arrays:
 <li><a href="https://www.hackerrank.com/topics/suffix-array">suffix-array</a></li>
 <li><a href="https://www.hackerrank.com/topics/lcp-array">lcp-array</a></li>
 
+Queue:
 <li><a href="https://www.hackerrank.com/topics/priority-queue">priority-queue</a></li>
 
+Set:
 <li><a href="https://www.hackerrank.com/topics/set">set</a></li>
 <li><a href="https://www.hackerrank.com/topics/multi-set">multi-set</a></li>
 <li><a href="https://www.hackerrank.com/topics/disjoint-set">disjoint-set</a></li>
 
+Dictionary:
 <li><a href="https://www.hackerrank.com/topics/dictionary">dictionary</a></li>
 
 <li><a href="https://www.hackerrank.com/topics/two-pointer-technique">two-pointer-technique</a></li>
@@ -82,17 +91,16 @@ Math
 
 <li><a href="https://www.hackerrank.com/topics/counting">counting</a></li>
 
+Trie:
 <li><a href="https://www.hackerrank.com/topics/trie">trie</a></li>
 
+Bit manipulation:
 <li><a href="https://www.hackerrank.com/topics/bitwise-or">bitwise-or</a></li>
 <li><a href="https://www.hackerrank.com/topics/bitwise-xor">bitwise-xor</a></li>
 
 <li><a href="https://www.hackerrank.com/topics/sparse-tables">sparse-tables</a></li>
 
 <li><a href="https://www.hackerrank.com/topics/game-theory-and-grundy-numbers">game-theory-and-grundy-numbers</a></li>
-
-<li><a href="https://www.hackerrank.com/topics/sieve-of-eratosthenes">sieve-of-eratosthenes</a></li>
-<li><a href="https://www.hackerrank.com/topics/sieve-of-eratosthenes-linear-time">sieve-of-eratosthenes-linear-time</a></li>
 
 <li><a href="https://www.hackerrank.com/topics/pointers-and-linked-lists">pointers-and-linked-lists</a></li>
 <li><a href="https://www.hackerrank.com/topics/lazy-propagation">lazy-propagation</a></li>
