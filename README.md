@@ -16,12 +16,11 @@ Math
 <li><a href="https://www.hackerrank.com/topics/div-mod">div-mod</a></li>
 <li><a href="https://www.hackerrank.com/topics/ceil-floor">ceil-floor</a></li>
 <li><a href="https://www.hackerrank.com/topics/divisors">divisors</a></li>
+<li><a href="https://www.hackerrank.com/topics/closed-form">closed-form</a></li>
+<li><a href="https://www.hackerrank.com/topics/square-root">square-root</a></li>
 <li><a href="https://www.hackerrank.com/topics/sieve-of-eratosthenes">sieve-of-eratosthenes</a></li>
 <li><a href="https://www.hackerrank.com/topics/sieve-of-eratosthenes-linear-time">sieve-of-eratosthenes-linear-time</a></li>
 
-<li><a href="https://www.hackerrank.com/topics/square-root">square-root</a></li>
-
-<li><a href="https://www.hackerrank.com/topics/closed-form">closed-form</a></li>
 <li><a href="https://www.hackerrank.com/topics/fibonacci-numbers">fibonacci-numbers</a></li>
 <li><a href="https://www.hackerrank.com/topics/binets-formula">binets-formula</a></li>
 
