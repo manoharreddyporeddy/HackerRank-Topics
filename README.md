@@ -3,7 +3,7 @@
 Topics (Tutorials) from HackerRank
 
 <h4>NOTE</h4>
-1. Whole list of topic URLs (As on Feb 29 2016)
+1. Whole list of topic URLs (As on Feb 29 2016) <br>
 2. Don’t be surprised if a link becomes unavailable for a period of time or if you see some minor typos
 
 <h4>Here you go:</h4>
@@ -147,4 +147,15 @@ TBD
 <li><a href="https://www.hackerrank.com/topics/expectation-values">expectation-values</a></li>
 <li><a href="https://www.hackerrank.com/topics/euler-function">euler-function</a></li>
 <li><a href="https://www.hackerrank.com/topics/diophantine-equations-with-two-unknowns-ax-by-c">diophantine-equations-with-two-unknowns-ax-by-c</a></li>
+
+Data Structures
+<li><a href="https://www.hackerrank.com/topics/arrays">Arrays</a></li>
+<li><a href="https://www.hackerrank.com/topics/linked-lists">Linked Lists</a></li>
+<li><a href="https://www.hackerrank.com/topics/stacks">Stacks</a></li>
+<li><a href="https://www.hackerrank.com/topics/queues">Queues</a></li>
+<li><a href="https://www.hackerrank.com/topics/heaps">Heaps</a></li>
+<li><a href="https://www.hackerrank.com/topics/binary-trees-and-binary-search-trees">Binary Trees & BST</a></li>
+<li><a href="https://www.hackerrank.com/topics/tree-traversals">Tree Traversals</a></li>
+<li><a href="https://www.hackerrank.com/topics/depth-first-search">DFS</a></li>
+<li><a href="https://www.hackerrank.com/topics/breadth-first-search">BFS</a></li>
 </ol>
