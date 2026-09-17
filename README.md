@@ -284,8 +284,7 @@ Collection of all HackerRank tutorial topics organized in a logical learning seq
 ## Contact
 
 For questions, [open an issue](../../issues).
-For security reports, please use the [security report form](https://www.twoanswers.com/security-report) or the [contact form](https://www.twoanswers.com/contact).
 
----
+## For security vulnerabilities, please see our [Security Policy](SECURITY.md).
 
 ---
