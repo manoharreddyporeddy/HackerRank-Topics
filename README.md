@@ -29,7 +29,6 @@ Collection of all HackerRank tutorial topics organized in a logical learning seq
 
 ---
 
-
 ## 🟢 1. Programming Basics
 
 | #   | Topic              | Link                                                                       |
@@ -277,5 +276,16 @@ Collection of all HackerRank tutorial topics organized in a logical learning seq
 ---
 
 **Total Topics: 99**
+
+---
+
+---
+
+## Contact
+
+For questions, [open an issue](../../issues).
+For security reports, please use the [security report form](https://www.twoanswers.com/security-report) or the [contact form](https://www.twoanswers.com/contact).
+
+---
 
 ---
